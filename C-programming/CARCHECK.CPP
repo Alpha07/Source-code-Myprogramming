@@ -19,7 +19,7 @@ printf("\nYou not enter a four number:");
 }
 else
 {
-b=a%10;
+b=e%10;
 if(b%2==0)    //work to even number
 {
 printf("\nYour car number is Even(%ld) ",e);
